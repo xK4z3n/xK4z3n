@@ -16,5 +16,8 @@ Hi there, I'm Kazen 👋
   <img alt="c#" src="https://img.shields.io/badge/-C%20Sharp-44CF90?style=flat-square&logo=c%20sharp&logoColor=white" />
 </p>
 
+## 🥀 Contact 
+<img alt="Discord" "src="https://media.discordapp.net/attachments/861000939183013898/861246563536207892/unknown.png" />
+
 ## 📫 Projet
 [TikTokFrance](https://discord.gg/tiktokfrance)
